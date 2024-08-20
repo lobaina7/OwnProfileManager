@@ -22,8 +22,9 @@ pids
 lib-cov
 
 # Dependency directories
-node_modules/
+
 jspm_packages/
+node_modules/
 
 # Coverage directory used by tools like istanbul
 coverage
